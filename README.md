@@ -1,4 +1,4 @@
-# Natural Language Processing Project : Blog Topic Classification
+jupy# Natural Language Processing Project : Blog Topic Classification
 
 Here we are going to solve a supervised multi-class text classification problem in NLP.
 
